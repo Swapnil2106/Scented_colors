@@ -16,3 +16,10 @@
 |12.Should the object be only detected?|
 |13.Should the object be sorted on the base of color?|
 |14.Should the object be sorted on the base of its shape?|
+
+Following was the information obtained through basic research and customer interaction
+
+|Observation from lit survey |Requirements|
+|----|-----|
+|Based on dimensions|The machines should have reasonable size|
+|Based on sorting|The machine should be able to detect different types of colors|
