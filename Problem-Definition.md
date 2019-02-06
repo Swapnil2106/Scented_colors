@@ -1,4 +1,9 @@
-# Phase 1:Problem definition
+# >Case Study<br>
+1.    Designers: Jagadish M.B, Sai Rachan, Kiran Kori, Swapnil Kore
+2.    Need Statement:"Sorting Machine"
+3.    Clients:Cycle incense factory,Bangalore.
+4.    Users:
+<br>
 
 |  Questions such as|   This question helps the designer to   |
 |----|----|
