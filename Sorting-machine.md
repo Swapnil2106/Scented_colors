@@ -25,8 +25,8 @@ Following was the information obtained through basic research and customer inter
 |Based on sorting|The machine should be able to detect different types of colors|
 |Based on the objects|The machine should be able to move the object from one place to another place|
 |Process of completion |The machine should be able to complete the task automatically without any human help|
-
-# 1.1 Identify clients objective
+# 
+## 1.1 Identify clients objective
 
 |Sl.no|objectives|
 |---|---|
@@ -35,3 +35,15 @@ Following was the information obtained through basic research and customer inter
 |3.|Automated process of sorting|
 |4.|Size of machine should be small|
 |5.|The machine should be user friendly|
+
+## Prioritize the identified design objective
+
+Prioritize among various objectives is set through a technique called Pair-wise Comparison Chart(PCC)
+
+|objectives|Sorting machines|Automated process|Small size|User friendly|Color and Shape|
+|----|----|---|----|-----|----|
+|Sorting machine|
+|Automated process|
+|Small size|
+|User friendly|
+|Color and Shape|
