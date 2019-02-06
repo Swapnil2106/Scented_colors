@@ -25,3 +25,13 @@ Following was the information obtained through basic research and customer inter
 |Based on sorting|The machine should be able to detect different types of colors|
 |Based on the objects|The machine should be able to move the object from one place to another place|
 |Process of completion |The machine should be able to complete the task automatically without any human help|
+
+# 1.1 Identify clients objective
+
+|Sl.no|objectives|
+|---|---|
+|1.|Sorting machines for sorting incense stick box|
+|2.|Considered sorting parameters for sorting:color and shape|
+|3.|Automated process of sorting|
+|4.|Size of machine should be small|
+|5.|The machine should be user friendly|
