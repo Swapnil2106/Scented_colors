@@ -22,16 +22,17 @@
 |13.Should the object be sorted on the base of color?|
 |14.Should the object be sorted on the base of its shape?|
 
-Following was the information obtained through basic research and customer interaction
+## >Obtain the information through basic survey and customer interaction and arrive at requirements
 
 |Observation from lit survey |Requirements|
 |----|-----|
-|Based on dimensions|The machines should have reasonable size|
-|Based on sorting|The machine should be able to detect different types of colors|
-|Based on the objects|The machine should be able to move the object from one place to another place|
-|Process of completion |The machine should be able to complete the task automatically without any human help|
-# 
-## 1.1 Identify clients objective
+|1.Based on dimensions|The machines should have reasonable size|
+|2.Based on sorting|The machine should be able to detect different types of colors|
+|3.Based on the objects|The machine should be able to move the object from one place to another place|
+|4.Process of completion |The machine should be able to complete the task automatically without any human help|
+|5.Based on the cost of completing the machine|cost of the machine should be up to Rs.4000|
+
+## >1.1 Identify clients objective
 
 |Sl.no|objectives|
 |---|---|
@@ -41,7 +42,7 @@ Following was the information obtained through basic research and customer inter
 |4.|Size of machine should be small|
 |5.|The machine should be user friendly|
 
-## Prioritize the identified design objective
+## >1.2 Prioritize the identified design objective
 
 Prioritize among various objectives is set through a technique called Pair-wise Comparison Chart(PCC)
 
@@ -52,3 +53,15 @@ Prioritize among various objectives is set through a technique called Pair-wise 
 |Small size|
 |User friendly|
 |Color and Shape|
+## >Problem definition version<sub>(1.1)</sub>
+
+## >1.3 Identify constraints
+1. 
+
+2.
+
+3.
+
+## >Problem definition version(1.2)</sub>
+
+## >Problem definition version(1.3)</sub>
