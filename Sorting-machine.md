@@ -23,3 +23,5 @@ Following was the information obtained through basic research and customer inter
 |----|-----|
 |Based on dimensions|The machines should have reasonable size|
 |Based on sorting|The machine should be able to detect different types of colors|
+|Based on the objects|The machine should be able to move the object from one place to another place|
+|Process of completion |The machine should be able to complete the task automatically without any human help|
