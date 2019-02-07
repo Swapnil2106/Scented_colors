@@ -11,16 +11,15 @@
 |2.What objects are to be sorted?|
 |3.Based on which parameter the object be sorted?|Establish clients objective's|
 |4.Which type of technique should be used to sort the objects?|
-|5.|
-|6.What are the possible shapes of the object?|Identify constraints|
-|7.What are the dimensions of the object?|
-|8.How much does the object weigh?|
-|9.What are the dimension of the machine?|
-|10.What can be cost of making the machine?|
-|11.Should the objects be placed manually on the conveyor belt?|Establish functions|
-|12.Should the object be only detected?|
-|13.Should the object be sorted on the base of color?|
-|14.Should the object be sorted on the base of its shape?|
+|5.What are the possible shapes of the object?|Identify constraints|
+|6.What are the dimensions of the object?|
+|7.How much does the object weigh?|
+|8.What are the dimension of the machine?|
+|9.What can be cost of making the machine?|
+|10.Should the objects be placed manually on the conveyor belt?|Establish functions|
+|11.Should the object be only detected?|
+|12.Should the object be sorted on the base of color?|
+|13.Should the object be sorted on the base of its shape?|
 
 ## >Obtain the information through basic survey and customer interaction and arrive at requirements
 
@@ -61,11 +60,12 @@ Prioritize among various objectives is set through a technique called Pair-wise 
 <br>
 
 ## >1.3 Identify constraints
-1. 
 
-2.
+1.Size of the machine.
 
-3.
+2.Weight of the machine.
+
+3.Shapes and colors of the incense stick boxes
 
 ## >Problem definition version(1.2)</sub>
 
