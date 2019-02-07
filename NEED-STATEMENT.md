@@ -54,7 +54,7 @@ This sorting machine is capable of sorting based on their shape,color and the ma
 
 The mentioned sorts Cadbury into different parts based on its color. The body of the is made by plastic board(foam). The movement of the placer is controlled by servo motor. There is an installation of color sensor to detect different color, which is monitored by coded Arduino Nano.
 
-## 1.4 Journals on Sorting machine
+
 
 
 
