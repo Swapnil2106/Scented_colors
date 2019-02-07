@@ -24,13 +24,22 @@ The point of interests, here are the different sorting machines that are used fo
 
 ### 1. Eggs sorting machine
 
+![image](https://user-images.githubusercontent.com/47111026/52435354-a997bc00-2b37-11e9-8ac4-7e13f69898b6.png)
+
+
 The system and the machine control program for automatic eggs sorting into categories based on size and shape using a technical version system. The principle difference between the considered machines for sorting eggs into categories and the existing sorting machines, is the separation of eggs into categories by size including substandard eggs in the stream.
 
 ### 2.Waste water machine
 
+![image](https://user-images.githubusercontent.com/47111026/52435600-44909600-2b38-11e9-8c34-6446c850a235.png)
+
+
 An automatic sorter machine is developed which can sort out the wastes in various categories to make waste management easier and efficient. It can be possible to sort out metal, paper, plastic, and glasses. By developing a electromechanical system using a micro controller and operational amplifier. For sorting machine and glass conventional sensors are used and for sorting paper and plastic a sensor using LASER and LDR is developed. A weight sensor and counter is used to find out the amount of the sorted materials. By using the proper recycling system, the curse of waste will turn into blessing for the civilization. The sorting procedure will make recycling more efficient.
 
 ### 3.Rice grain sorting machine
+
+![image](https://user-images.githubusercontent.com/47111026/52435721-89b4c800-2b38-11e9-8cfc-616593611d83.png)
+
 
 This is wooden hand driver cum motorized rice grain sorting device. Blower fan is provided to perform winnowing operation, which can separate husk from grains. Separate compartments with outlets are given to sort grains in different grades. The device has ability to sort 400 to 450 kg of rice per hour into different grades like clean grains, broken grains and separate small stones and husk.
 
