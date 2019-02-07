@@ -71,6 +71,28 @@ This sorting machine is capable of sorting based on their shape,color and the ma
 
 The mentioned sorts Cadbury into different parts based on its color. The body of the is made by plastic board(foam). The movement of the placer is controlled by servo motor. There is an installation of color sensor to detect different color, which is monitored by coded Arduino Nano.
 
+## Reference
+
+1. https://academic.oup.com/comjnl/article/1/2/71/425234
+
+     ### The Principles of sorting,D.A.Bell,The Computer Journal, Volume 1,Issue 2, January 1958,Pages 71-77
+2. http://www.agrimachinery.net/sbornik/2017/2/38.MACHINE%20CONTROL%20SYSTEM%20OPERATION%20FOR%20AUTOMATIC%20SORTING%20OF%20EGGS%20INTO%20CATEGORIES.pdf
+
+      ### Scientific proceeding v international scientific-technical conference "agricultural machinery" 2017
+      ### Machine control system operation for automatic sorting of eggs into categories
+
+3. https://www.researchgate.net/publication/271964625_Development_of_Automatic_Smart_Waste_Sorter_Machine
+
+     ### Development of Automatic Smart waste sorter machine.
+     ### International Conference on mechanical, Industrial and materials Engineering 2013 (ICMIME2013)
+     ### 1-3 November,2013,RUET,Rajshahi,Bangladesh.
+
+4. http://nif.org.in/innovation/rice-grain-sorting-machine/951
+
+   ### National Innovation Foundation, India.
+   ### Autonomous body of the department of science and technology, Govt.Of India.
+
+
 
 
 
