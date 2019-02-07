@@ -48,11 +48,11 @@ Prioritize among various objectives is set through a technique called Pair-wise 
 
 |objectives|Sorting machines|Automated process|Small size|User friendly|Color and Shape|
 |----|----|---|----|-----|----|
-|Sorting machine|
-|Automated process|
-|Small size|
-|User friendly|
-|Color and Shape|
+|Sorting machine|****|1|1|1|1|
+|Automated process|0|***|1|1|1|
+|Small size|0|0|***|0|1|
+|User friendly|0|0|1|***|1|
+|Color and Shape|0|0|0|0|***|
 <br>
 
 ## >Problem definition version<sub>(1.1)</sub>
