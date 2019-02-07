@@ -36,6 +36,24 @@ This is wooden hand driver cum motorized rice grain sorting device. Blower fan i
 
 ## DIY sorting machines
 
+1. Coin soring machine.
+
+[Coin sorting machine](https://www.youtube.com/watch?v=8eXM93Wyrro)
+
+This particular 'machine' showcased in the video might not be technically 'machine'. It can be considered as a craft work as well. Here, coins are sorted into differently value compartments. This works on the simple fact that coins of different values of different sizes. The coins are fed into the feeder,the coins overcome a set of holes which are perfectly carved on the base of size of the coins and falls in the coins, which is under a particular hole.
+
+2. Color based Sorting machine
+
+[Color based sorting machine ](https://www.youtube.com/watch?v=w8j7vk2K2L0&t=57s)
+
+This sorting machine is capable of sorting based on their shape,color and the material. The device in the above mentioned video works on the Arduino UNO chip. The arm here can rotate for 345 degrees of angle.
+
+3. Cadbury Gems sorting machine.
+
+[cadbury Gems sorting machine](https://www.youtube.com/watch?v=4DbrWAGDADs)
+
+The mentioned sorts Cadbury into different parts based on its color. The body of the is made by plastic board(foam). The movement of the placer is controlled by servo motor. There is an installation of color sensor to detect different color, which is monitored by coded Arduino Nano.
+
 ## 1.4 Journals on Sorting machine
 
 
