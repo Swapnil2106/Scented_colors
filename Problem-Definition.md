@@ -59,16 +59,19 @@ Prioritize among various objectives is set through a technique called Pair-wise 
 **"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape".**
 <br>
 
-## >1.3 Identify constraints
+## >1.2 Identify constraints
 
 1.Size of the machine.
 
 2.Weight of the machine.
 
-3.Shapes and colors of the incense stick boxes
+3.Shapes and colors of the incense stick boxes.
+
+4. cost of the machine.
+
 
 ## >Problem definition version(1.2)</sub>
-**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green colour".**
+**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines can weigh which can cost upto Rs 4000, can be upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green colour".**
 
 ## >1.3 Identify functions
 
