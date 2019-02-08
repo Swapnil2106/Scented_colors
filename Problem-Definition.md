@@ -1,25 +1,24 @@
-# >Case Study<br>
+
 1.    Designers: Jagadish M.B, M R Sai Rachan, Kiran Kori, Swapnil Kore
 2.    Need Statement:"Sorting Machine"
 3.    Clients:Cycle incense factory,Bangalore.
 4.    Users:Factory workers.
-<br>
 
-|  Questions such as|   This question helps the designer to   |
-|----|----|
-|1.What should the machine be able to do?|Establish clients objective's|
-|2.What objects are to be sorted?|Establish clients objective's|
-|3.Based on which parameter the object be sorted?|Establish clients objective's|
-|4.Which type of technique should be used to sort the objects?|Establish clients objective's|
-|5.What are the possible shapes of the object?|Identify constraints|
-|6.What are the dimensions of the object?|Identify constraints|
-|7.How much does the object weigh?|Identify constraints|
-|8.What are the dimension of the machine?|Identify constraints|
-|9.What can be the cost of making the machine?|Identify constraints|
-|10.Should the objects be placed manually on the conveyor belt?|Establish functions|
-|11.Should the object be only detected?|Establish functions|
-|12.Should the object be sorted on the base of color?|Establish functions|
-|13.Should the object be sorted on the base of its shape?|Establish functions|
+|  Questions such as|Answers|   This question helps the designer to   |
+|----|----|---|
+|1.How is the operation of machine|Automatic|Establish client's objectives|
+|2.What objects are to be sorted?|Incense stick boxes| Establish clients objectives|
+|3.Based on which parameter the object be sorted?|Color and shape| Establish clients objectives|
+|4.How is the state of the machine|Portable and accurate|Establish client's objective|
+|5.What are the possible shapes of the object?|Cylindrical and cuboidal|Identify constraints|
+|6.What are the dimensions of the object?|Cylindrical-5cm dia 20cm-height, Cuboidal- 1.5cmX1cmX20cm|Identify constraints|
+|7.How much does the object weigh?|Max 100gms|Identify constraints|
+|8.What are the dimension of the machine?|1ftX1ftX1ft|Identify constraints|
+|9.What can be the cost of making the machine?|Max RS 4000|Identify constraints|
+|11.Should the object be only detected?|Object should be placed in the compartment|Establish functions|
+|12.Should the object be sorted on the base of color?|Yes|Establish functions|
+|13.Should the object be sorted on the base of its shape?|Yes|Establish functions|
+|14.Which type of technique should be used to sort the objects?|Pick and place|Establish functions|
 
 ## >Obtain the information through basic survey and customer interaction and arrive at requirements
 
@@ -35,51 +34,47 @@
 
 |Sl.no|objectives|
 |---|---|
-|1.|Sorting machines for sorting incense stick box|
+|1.|Portable accurate sorting machines for sorting incense stick box|
 |2.|Considered sorting parameters for sorting:color and shape|
 |3.|Automated process of sorting|
 |4.|Size of machine should be small|
-|5.|The machine should be user friendly|
 
 ## >1.2 Prioritize the identified design objective
 
 Prioritize among various objectives is set through a technique called Pair-wise Comparison Chart(PCC)
 
-|objectives|Sorting machines|Automated process|Small size|User friendly|Color and Shape|
-|----|----|---|----|-----|----|
-|Sorting machine|****|1|1|1|1|
-|Automated process|0|***|1|1|1|
-|Small size|0|0|***|0|1|
-|User friendly|0|0|1|***|1|
-|Color and Shape|0|0|0|0|***|
+|objectives|portability|Automated process|Small size|accuracy|
+|----|----|---|----|-----|
+|portability|****|0|0|0|
+|Automated process|1|***|1|1|
+|Small size|1|0|***|0|
+|Accuracy|1|0|1|**|
 <br>
 
 Ranking 
 
-1.Sorting 
+1.Automatic
 
-2. Automated Process
+2. Accurate
 
-3. User friendly
+3. Small in size
 
-4. Small size
+4. Portable
 
-5. Color and shape.
+
 
 ## >Problem definition version<sub>(1.1)</sub>
 
-**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape".**
+**"Design a small,portable and accurate sorting machine which can sort incense sticks boxes based on its color and shape".**
 <br>
 
 ## >1.2 Identify constraints
-
-1.Size of the machine.
-
-2.Weight of the machine.
-
-3.Shapes and colors of the incense stick boxes.
-
-4. cost of the machine.
+|Criteria|Value|
+|--|--|
+|1.Size of the machine.|1ft*1ft*1.5|
+|2.Weight of the machine.|Upto 3 kgs|
+|3.Shapes and colors of the incense stick boxes.|Rectangular and Cylindrical, Color-Red and Green|
+|4. cost of the machine.|upto Rs 4000|
 
 
 ## >Problem definition version(1.2)</sub>
@@ -87,11 +82,11 @@ Ranking
 
 ## >1.3 Identify functions
 
-1.The boxes under the sorting process move on the conveyor belt.
+1. Switch operated machine.
 
 2. The boxes will be placed in their respective compartments after sorting.
 
 3. The boxes having physical characteristics other than the mentioned constraints shall be treated faulty.
 
 ## >Problem definition version(1.3)</sub>
-**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines which can cost upto Rs 4000,can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green color. The boxes under the sorting process move on the conveyor belt.The boxes shall be placed in their respective compartments after sorting.The boxes having physical characteristics other than the mentioned constraints shall be treated faulty".**
+**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines which can cost upto Rs 4000,can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green color. The process is switch operated.The boxes shall be placed in their respective compartments after sorting.The boxes having physical characteristics other than the mentioned constraints shall be treated faulty".**
