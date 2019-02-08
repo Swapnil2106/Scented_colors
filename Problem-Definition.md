@@ -89,7 +89,7 @@ Ranking
 
 1.The boxes under the sorting process move on the conveyor belt.
 
-2. The boxes shall be placed in their respective compartments after sorting.
+2. The boxes will be placed in their respective compartments after sorting.
 
 3. The boxes having physical characteristics other than the mentioned constraints shall be treated faulty.
 
