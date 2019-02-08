@@ -2,7 +2,7 @@
 1.    Designers: Jagadish M.B, M R Sai Rachan, Kiran Kori, Swapnil Kore
 2.    Need Statement:"Sorting Machine"
 3.    Clients:Cycle incense factory,Bangalore.
-4.    Users:
+4.    Users:Factory workers.
 <br>
 
 |  Questions such as|   This question helps the designer to   |
