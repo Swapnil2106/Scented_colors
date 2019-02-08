@@ -54,6 +54,18 @@ Prioritize among various objectives is set through a technique called Pair-wise 
 |Color and Shape|0|0|0|0|***|
 <br>
 
+Ranking 
+
+1.Sorting 
+
+2. Automated Process
+
+3. User friendly
+
+4. Small size
+
+5. Color and shape.
+
 ## >Problem definition version<sub>(1.1)</sub>
 
 **"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape".**
