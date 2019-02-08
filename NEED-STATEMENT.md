@@ -71,6 +71,14 @@ This sorting machine is capable of sorting based on their shape,color and the ma
 
 The mentioned sorts Cadbury into different parts based on its color. The body of the is made by plastic board(foam). The movement of the placer is controlled by servo motor. There is an installation of color sensor to detect different color, which is monitored by coded Arduino Nano.
 
+|Sl.no|Components or parts used|Mechanisms/Working Principle Identified|links|
+|--|--|--|--|
+||Electronics/Mechanical|||
+|1.|Arduino Mega-Electronic|Arduino mega is a micro controller board based on AT Mega 2560,it has Microcontroller	ATmega2560 Operating Voltage 5V Input Voltage (recommended)7-12V Input Voltage (limits)	6-20V Digital I/O Pins 54 (of which 14 provide PWM output) Analog Input Pins	16 DC Current per I/O Pin 40 mA DC Current for 3.3V Pin 50 mA Flash Memory 256 KB of which 8 KB used by bootloader SRAM	8 KB EEPROM	4 KB Clock Speed 16 MHz|[Arduino](http://www.geeetech.com/wiki/index.php/Arduino_Mega_2560)|
+|2.|Color sensor(IR sensor)-Electronic|An IR Sensor can measure heat of an object as well as detects the motion. These types of measures only infrared radiation rather than emitting it.That is called as Passive IR sensor|[IR sensor](https://www.elprocus.com/infrared-ir-sensor-circuit-and-working/)
+|3.|Servo motor-Electronic|Servo motor works on PWM(Pulse Width Modulation principle) means its angle of rotation is controlled by the duration of applied pulse to its controll PIN|[Servo motor](https://circuitdigest.com/article/servo-motor-basics)|
+|4.|Card board or foam Board-Mechanical|
+
 ## Reference
 
 1. https://academic.oup.com/comjnl/article/1/2/71/425234
