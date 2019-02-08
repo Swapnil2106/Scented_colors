@@ -68,6 +68,15 @@ Prioritize among various objectives is set through a technique called Pair-wise 
 3.Shapes and colors of the incense stick boxes
 
 ## >Problem definition version(1.2)</sub>
-**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green colour**
+**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green colour".**
+
+## >1.3 Identify constraints
+
+1.The boxes under the sorting process move on the conveyor belt.
+
+2. The boxes shall be placed in their respective compartments after sorting.
+
+3. The boxes having physical characteristics other than the mentioned constraints shall be treated faulty.
 
 ## >Problem definition version(1.3)</sub>
+**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green colour.The boxes under the sorting process move on the conveyor belt.The boxes shall be placed in their respective compartments after sorting.The boxes having physical characteristics other than the mentioned constraints shall be treated faulty".**
