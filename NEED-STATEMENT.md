@@ -79,6 +79,20 @@ The mentioned sorts Cadbury into different parts based on its color. The body of
 |3.|Servo motor-Electronic|Servo motor works on PWM(Pulse Width Modulation principle) means its angle of rotation is controlled by the duration of applied pulse to its controll PIN|[Servo motor](https://circuitdigest.com/article/servo-motor-basics)|
 |4.|Card board or foam Board-Mechanical|
 
+## Components required for Project
+
+1. Arduino Mega 
+
+![Arduino mega](https://www.arduino.cc/en/uploads/Main/ArduinoMegaADK.jpg)
+
+2. IR Sensor 
+
+![IR sensor](https://www.elprocus.com/wp-content/uploads/2015/01/ir-sensor-300x245.jpg)
+
+3. Servo motor 
+
+![41y5vwjaeql _sx342_](https://user-images.githubusercontent.com/47111026/52468659-5d885e00-2baf-11e9-8f49-9d5a93db3af9.jpg)
+
 ## Reference
 
 1. https://academic.oup.com/comjnl/article/1/2/71/425234
