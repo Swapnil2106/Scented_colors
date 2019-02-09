@@ -100,5 +100,7 @@ Ranking
 
 3. The boxes having physical characteristics other than the mentioned constraints will be indicated with a sign of deviation.
 
+4. The process shall b considered terminated when the placer returns to its initial position.
+
 ## >Problem definition version(1.3)</sub>
-**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines which can cost upto Rs 4000,can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green color. The process is switch operated.The boxes shall be placed in their respective compartments after sorting.The boxes having physical characteristics other than the mentioned constraints will be indicated with a sign of deviation".**
+**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines which can cost upto Rs 4000,can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green color. The process is switch operated.The boxes shall be placed in their respective compartments after sorting.The boxes having physical characteristics other than the mentioned constraints will be indicated with a sign of deviation.The process shall b considered terminated when the placer returns to its initial position".**
