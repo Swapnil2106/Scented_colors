@@ -75,7 +75,7 @@ Ranking
 
 ## >Problem definition version<sub>(1.1)</sub>
 
-**"Design a small,portable and accurate sorting machine which can sort incense sticks boxes based on its color and shape".**
+**"Design a small,portable time efficient durable and accurate sorting machine which can sort incense sticks boxes based on its color and shape".**
 <br>
 
 ## >1.2 Identify constraints
@@ -85,10 +85,12 @@ Ranking
 |2.Weight of the machine.|Upto 3 kgs|
 |3.Shapes and colors of the incense stick boxes.|Rectangular and Cylindrical, Color-Red and Green|
 |4. cost of the machine.|upto Rs 4000|
+|5. Time for making the machine| 2 to 3 months|
+|6. Weight of the objects| can be upto 100 gms|
 
 
 ## >Problem definition version(1.2)</sub>
-**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines which can cost upto Rs 4000, can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green colour".**
+**"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines which can cost upto Rs 4000, can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes weigjing upto 100gms are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green colour". The machine shall be made within 3 months.**
 
 ## >1.3 Identify functions
 
