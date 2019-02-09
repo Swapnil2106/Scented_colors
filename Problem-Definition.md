@@ -48,14 +48,14 @@
 
 Prioritize among various objectives is set through a technique called Pair-wise Comparison Chart(PCC)
 
-|objectives|portability|Automated process|Compact|accuracy|Time efficient|Durable|
-|----|----|---|----|-----|----|----|
-|portability|****|0|0|0|0|0|
-|Automated process|1|***|1|1|1|1|
-|Compact|1|0|***|0|0|1|
-|Accuracy|1|0|1|**|1|1|
-|Time efficiency|1|0|1|0|***|1|
-|Durable|1|0|0|0|0|***|
+|objectives|portability|Automated process|Compact|accuracy|Time efficient|Durable|score|
+|----|----|---|----|-----|----|----|--|
+|portability|****|0|0|0|0|0|0|
+|Automated process|1|***|1|1|1|1|5|
+|Compact|1|0|***|0|0|1|2|
+|Accuracy|1|0|1|**|1|1|4|
+|Time efficiency|1|0|1|0|***|1|3|
+|Durable|1|0|0|0|0|***|1|
 <br>
 
 Ranking 
@@ -100,7 +100,7 @@ Ranking
 
 3. The boxes having physical characteristics other than the mentioned constraints will be indicated with a sign of deviation.
 
-4. The process shall b considered terminated when the placer returns to its initial position.
+4. The process shall be considered terminated when the placer returns to its initial position.
 
 ## >Problem definition version(1.3)</sub>
 **"Design a small,user friendly and automatic sorting machine which can sort incense sticks boxes based on its color and shape". The machines which can cost upto Rs 4000,can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green color. The process is switch operated.The boxes shall be placed in their respective compartments after sorting.The boxes having physical characteristics other than the mentioned constraints will be indicated with a sign of deviation.The process shall b considered terminated when the placer returns to its initial position".**
