@@ -56,17 +56,21 @@
 |1. Read the count |keep a count of the objects|
 |2. Fetch the object|Display the count|
 
+## 2.4: Functional tree
+
+
 ## 2.5: Write the glass box representation of the above system 
+
 
 ## 2.6: Complete the morphological chart by exploring the other alternative means of achieving the sub functions.
 
 |Functions|Mean 1|Mean 2| Mean 3| Mean 4|
 |-|-|-|-|-|
-|Machine operation|
-|Movement|
-|Sensing|
-|Sorting|
-|Notification|
-|Placing of objects|
+|Machine operation|Switch|Mobile application|Remote controller|WiFi/Bluetooth|
+|Movement|Conveyor belt|Multi-directional Conveyor|Vacuum suction |pick and placing|
+|Sensing|IR sensor|Camera(vision sensor)|TCS230|
+|Sorting|Pick and place|Multi-directional conveyor|slider|Vacuuum suction|
+|Notification|Beep sound|LED light|Digital display|vibration|
+|Placing of objects|Different boxes|Bowls|compartments in a shelf|
 
 ## Task 2.7:In the above table draw the selection path showing the concepts. Draw four conceptual models below.
