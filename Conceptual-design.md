@@ -1,4 +1,4 @@
-## 2.0: For the chosen need statement, writer the problem definition
+## 2.0: For the chosen need statement, write the problem definition
 
 ## 2.1: List the inputs,outputs of the system and represent black box model
 
@@ -53,8 +53,10 @@
 
 |User interference |System behavior|
 |-|-|
-|1. Read the count |keep a count of the objects|
-|2. Fetch the object|Display the count|
+||keep a count of the objects|
+||Display the count|
+|Read the count||
+|Fetch the count||
 
 ## 2.4: Functional tree
 
