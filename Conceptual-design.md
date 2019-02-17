@@ -4,6 +4,9 @@
 
 ## Task 2.3: Functional Structure(Write detailed system sub functions for each case)
 
+![functon tree](https://user-images.githubusercontent.com/47111026/52912138-46deb700-32d3-11e9-9827-c9514822f996.png)
+
+
 ## Task 2.4: List the inputs,outputs of the system and represent black box model
 
 |inputs|outputs|
