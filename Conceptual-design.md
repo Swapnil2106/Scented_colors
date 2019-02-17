@@ -1,13 +1,6 @@
-## Task 2.1: For the chosen need statement, writer the problem definition
+## 2.0: For the chosen need statement, writer the problem definition
 
-## Task 2.2: Write use case diagram to represent the above system.
-
-## Task 2.3: Functional Structure(Write detailed system sub functions for each case)
-
-![functon tree](https://user-images.githubusercontent.com/47111026/52912138-46deb700-32d3-11e9-9827-c9514822f996.png)
-
-
-## Task 2.4: List the inputs,outputs of the system and represent black box model
+## 2.1: List the inputs,outputs of the system and represent black box model
 
 |inputs|outputs|
 |--|--|
@@ -17,9 +10,40 @@
 
 ![black 2](https://user-images.githubusercontent.com/47111026/52911926-4f81be00-32d0-11e9-9e50-6ae55a4a5d4a.png)
 
-## Task 2.5: Write the glass box representation of the above system 
+## 2.2: List of main functions of a system
 
-## Task 2.6: Complete the morphological chart by exploring the other alternative means of achieving the sub functions.
+1.Input and storage.
+
+2.Sensing.
+
+3.Sorting.
+
+4.Count and notifying.
+
+## 2.3 user interaction-system behavior table
+
+### 1. Input and storage 
+
+|User interaction |System Behavior|
+|-|-|
+|1.Turn the machine on|* Machines turns on|
+||* Check the availability of the object|
+||* Lets the user know if the objects need to be placed|
+|2.Places the object|* Accept the object|
+||* moves the object|
+
+### Sensing 
+
+|User interaction|System behavior|
+|-|-|
+|Enter the code for sensing process| Pass under the sensor |
+||Extract the code written|
+||Senses the object shape|
+||Senses the color of object|
+
+## 2.5: Write the glass box representation of the above system 
+
+## 2.6: Complete the morphological chart by exploring the other alternative means of achieving the sub functions.
 
 |Functions|Mean 1|Mean 2| Mean 3| Mean 4|
 |-|-|-|-|-|
