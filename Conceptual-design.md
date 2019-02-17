@@ -58,8 +58,12 @@
 
 ## 2.4: Functional tree
 
+![functon tree](https://user-images.githubusercontent.com/47111026/52916152-0cd8d980-3302-11e9-92f9-f6ba83051ac0.png)
+
 
 ## 2.5: Write the glass box representation of the above system 
+
+![glass box 2](https://user-images.githubusercontent.com/47111026/52916170-33971000-3302-11e9-8bf5-5b34c6d87a93.png)
 
 
 ## 2.6: Complete the morphological chart by exploring the other alternative means of achieving the sub functions.
@@ -74,3 +78,12 @@
 |Placing of objects|Different boxes|Bowls|compartments in a shelf|
 
 ## Task 2.7:In the above table draw the selection path showing the concepts. Draw four conceptual models below.
+
+1.![whatsapp image 2019-02-17 at 8 51 51 pm](https://user-images.githubusercontent.com/47111026/52916191-617c5480-3302-11e9-841e-18e220225d4a.jpeg)
+
+2.![whatsapp image 2019-02-17 at 8 51 50 pm](https://user-images.githubusercontent.com/47111026/52916245-f2533000-3302-11e9-9c5f-88ead0457d8a.jpeg)
+
+
+3.![whatsapp image 2019-02-17 at 8 51 50 pm 1](https://user-images.githubusercontent.com/47111026/52916234-cfc11700-3302-11e9-8db9-dba48f44a251.jpeg)
+
+4.![whatsapp image 2019-02-17 at 8 51 51 pm 1](https://user-images.githubusercontent.com/47111026/52916268-23cbfb80-3303-11e9-8533-1bdfb606e236.jpeg)
