@@ -32,7 +32,7 @@
 |2.Places the object|* Accept the object|
 ||* moves the object|
 
-### Sensing 
+### 2. Sensing 
 
 |User interaction|System behavior|
 |-|-|
@@ -40,6 +40,21 @@
 ||Extract the code written|
 ||Senses the object shape|
 ||Senses the color of object|
+
+### 3. Sorting
+
+|User Interference|System behavior|
+|-|-|
+|Enter the code for sorting process|Extracts the code|
+||Controls the movement of objects|
+||Sorts and places the objects in compartments based on its shape and color|
+
+### 4. Counting and notifying 
+
+|User interference |System behavior|
+|-|-|
+|1. Read the count |keep a count of the objects|
+|2. Fetch the object|Display the count|
 
 ## 2.5: Write the glass box representation of the above system 
 
