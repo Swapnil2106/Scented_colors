@@ -86,6 +86,16 @@
 2.![whatsapp image 2019-02-17 at 8 51 50 pm](https://user-images.githubusercontent.com/47111026/52916245-f2533000-3302-11e9-9c5f-88ead0457d8a.jpeg)
 
 
-3.![whatsapp image 2019-02-17 at 8 51 50 pm 1](https://user-images.githubusercontent.com/47111026/52916234-cfc11700-3302-11e9-8db9-dba48f44a251.jpeg)
+3. 
+
+![capture](https://user-images.githubusercontent.com/47111026/52971073-16367480-33dc-11e9-800f-2a588e86959f.PNG)
 
 4.![whatsapp image 2019-02-17 at 8 51 51 pm 1](https://user-images.githubusercontent.com/47111026/52916268-23cbfb80-3303-11e9-8533-1bdfb606e236.jpeg)
+
+5.
+![whatsapp image 2019-02-19 at 12 04 56 am 1](https://user-images.githubusercontent.com/47111026/52971174-834a0a00-33dc-11e9-9769-67c9433f7238.jpg)
+
+6.
+![whatsapp image 2019-02-19 at 12 04 56 am](https://user-images.githubusercontent.com/47111026/52971231-b096b800-33dc-11e9-93a1-e6b33c6665be.jpeg)
+
+
