@@ -74,7 +74,7 @@
 |-|-|-|-|-|
 |Machine operation|Switch|Mobile application|Remote controller|WiFi/Bluetooth|
 |Movement|Conveyor belt|Multi-directional Conveyor|Vacuum suction |pick and placing|
-|Sensing|IR sensor|Camera(vision sensor)|TCS230|
+|Sensing|IR sensor|Camera(vision sensor)|TCS230|CDS photocell/FBG shape sensor|
 |Sorting|Pick and place|Multi-directional conveyor|slider|Vacuuum suction|
 |Notification|Beep sound|LED light|Digital display|vibration|
 |Placing of objects|Different boxes|Bowls|compartments in a shelf|
