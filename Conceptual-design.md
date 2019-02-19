@@ -75,8 +75,8 @@ The boxes are of two shapes,cylindrical and cuboidal respectively with dimension
 
 |Functions|Mean 1|Mean 2| Mean 3| Mean 4|
 |-|-|-|-|-|
-|Machine operation|Switch|Mobile application|Remote controller|WiFi/Bluetooth|
-|Movement|Conveyor belt|Multi-directional Conveyor|Vacuum suction |pick and placing|
+|Machine operation|Switch![download](https://user-images.githubusercontent.com/47111026/52984278-b7412180-3414-11e9-8bf3-05bf000473c7.JPG)|Mobile application|Remote controller|WiFi/Bluetooth|
+|Movement|Conveyor belt![conveyer](https://user-images.githubusercontent.com/47111026/52984182-616c7980-3414-11e9-94ee-cd58ba125168.jpg)|Multi-directional Conveyor|Vacuum suction |pick and placing|
 |Sensing|IR sensor|Camera(vision sensor)|TCS230|CDS photocell/FBG shape sensor|
 |Sorting|Pick and place|Multi-directional conveyor|slider|Vacuuum suction|
 |Notification|Beep sound|LED light|Digital display|vibration|
@@ -84,7 +84,10 @@ The boxes are of two shapes,cylindrical and cuboidal respectively with dimension
 
 ## Task 2.7:In the above table draw the selection path showing the concepts. Draw four conceptual models below.
 
-1.![whatsapp image 2019-02-17 at 8 51 51 pm](https://user-images.githubusercontent.com/47111026/52916191-617c5480-3302-11e9-841e-18e220225d4a.jpeg)
+1.
+
+![2](https://user-images.githubusercontent.com/47111026/52983984-78f73280-3413-11e9-9617-14f06ef7d69f.PNG)
+
 
 2.![whatsapp image 2019-02-17 at 8 51 50 pm](https://user-images.githubusercontent.com/47111026/52916245-f2533000-3302-11e9-9c5f-88ead0457d8a.jpeg)
 
@@ -93,7 +96,10 @@ The boxes are of two shapes,cylindrical and cuboidal respectively with dimension
 
 ![capture](https://user-images.githubusercontent.com/47111026/52971073-16367480-33dc-11e9-800f-2a588e86959f.PNG)
 
-4.![whatsapp image 2019-02-17 at 8 51 51 pm 1](https://user-images.githubusercontent.com/47111026/52916268-23cbfb80-3303-11e9-8533-1bdfb606e236.jpeg)
+4.
+
+![1](https://user-images.githubusercontent.com/47111026/52983916-359cc400-3413-11e9-882d-cdd88c561edb.PNG)
+
 
 5.
 ![whatsapp image 2019-02-19 at 12 04 56 am 1](https://user-images.githubusercontent.com/47111026/52971174-834a0a00-33dc-11e9-9769-67c9433f7238.jpg)
