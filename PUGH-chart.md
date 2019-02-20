@@ -31,7 +31,7 @@
 |-|-|-|-|-|-|-|-|
 |Automatic|9|0|+|+|Datum0|+|
 |Accurate|8|+|+|++|Datum|0|0|
-|Compact|6+|++|+|Datum|+|0|
+|Compact|6|+|++|+|Datum|+|0|
 |Speed|5|+|+|++|Datum|+|+|
 |Portable|3|++|+|+|Datum|++|0|
 |Rugged|2|+|0|++|Datum|+|-|
