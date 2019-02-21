@@ -42,3 +42,24 @@
 |+ score||34|44|55|-|19|21|
 |- score||0|0|0|-|7|2|
 |Total||34|44|55|-|12|19|
+
+|Design Table|Objective|Score given|Justification|
+|-|-|-|-|
+|1|Automatic|9|
+||Accurate|8|
+||Safety|7|
+||Compact|6|
+||Speed|5|
+||Portable|3|
+||Rugged|2|
+|2|Automatic|9|
+||Accurate|8|
+||Safety|7|
+||Compact|6|
+||Speed|5|
+||Portable|3|
+||Rugged|2|
+|3|
+|4|
+|5|
+|6|
