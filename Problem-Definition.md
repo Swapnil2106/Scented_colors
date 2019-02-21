@@ -8,7 +8,7 @@
 |----|----|---|
 |1.How is the operation of machine|Automatic|Establish client's objectives|
 |2.What objects are to be sorted?|Incense stick boxes| Establish clients objectives|
-|3.How is the state of the machine|Portable and accurate|Establish client's objective|
+|3.How is the state of the machine|Safe, Portable and accurate|Establish client's objective|
 |4.Are there any other objectives to look upon?|It should be rugged and quick|Establish client's objective|
 |5. Are there any dimensional constraints as such?|The machine should be small and compact|Establish client's objective|
 |6. Based on which parameters are the objects sorted?|Color and shape|Identify constraints|
@@ -38,7 +38,7 @@
 
 |Sl.no|objectives|
 |---|---|
-|1.|Portable and accurate|
+|1.|Safe, Portable and accurate|
 |2.|Automated process of sorting|
 |3.|The machine should be compact|
 |4.|The machine should be rugged and quick|
@@ -47,34 +47,37 @@
 
 Prioritize among various objectives is set through a technique called Pair-wise Comparison Chart(PCC)
 
-|objectives|portability|Automated process|Compact|accuracy|Rugged|Speed|score|
-|----|----|---|----|-----|----|----|--|
-|portability|****|0|0|0|1|0|1|
-|Automated process|1|***|1|1|1|1|5|
-|Compact|1|0|***|0|1|1|3|
-|Accuracy|1|0|1|**|1|1|4|
-|Rugged|0|0|0|0|***|0|0|
-|Speed|1|0|0|0|1|***|2|
+|objectives|portability|Automated process|Safety|Compact|accuracy|Rugged|Speed|score|
+|----|----|---|----|-----|----|----|--|--|
+|portability|***|0|0|0|0|1|0|1|
+|Automated process|1|***|1|1|1|1|1|6|
+|Safety|1|0|***|1|0|1|1|4|
+|Compact|1|0|0|***|0|1|1|3|
+|Accuracy|1|0|1|1|***|1|1|5|
+|Rugged|0|0|0|0|0|***|0|0|
+|Speed|1|0|0|0|0|1|***|2|
 <br>
 
 Ranking 
 
-1.Automatic
+1. Automatic
 
 2. Accurate
 
-3. Compact
+3. Safety
 
-4. Speed
+4. Compact
 
-5. Portable
+5. Speed
 
-6. Rugged
+6. Portable
+
+7. Rugged
 
 
 ## >Problem definition version<sub>(1.1)</sub>
 
-**"Design a small,portable rugged and accurate sorting machine which can sort incense sticks boxes".**
+**"Design a small,portable, safe, rugged and accurate sorting machine which can sort incense sticks boxes".**
 <br>
 
 ## >1.2 Identify constraints
@@ -89,7 +92,7 @@ Ranking
 
 
 ## >Problem definition version(1.2)</sub>
-**"Design a small,portable accurate rugged and automatic sorting machine which can sort incense sticks boxes. The machines which can cost upto Rs 4000, can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes weighing upto 100gms are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green colour". The machine shall be made within 3 months."**
+**"Design a small,portable,safe  accurate rugged and automatic sorting machine which can sort incense sticks boxes. The machines which can cost upto Rs 4000, can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes weighing upto 100gms are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green colour". The machine shall be made within 3 months."**
 
 ## >1.3 Identify functions
 
@@ -102,4 +105,4 @@ Ranking
 4. The process shall be considered terminated when the placer returns to its initial position.
 
 ## >Problem definition version(1.3)</sub>
-**"Design a small,portable accurate rugged and automatic sorting machine which can sort incense sticks boxes. The machines which can cost upto Rs 4000,can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green color.The machine will Sort and place the object in respective compartment based on shape and color. The machine will keep a count of no. of objects sorted and thus indicate. The machine will return to its initial position after the process of sorting  ".**
+**"Design a small,portable, safe, accurate rugged and automatic sorting machine which can sort incense sticks boxes. The machines which can cost upto Rs 4000,can weigh upto 3 kgs, with dimensions 1ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height, and 5x1.5x20 in cms weighing 100gms. The boxes shall be in red or green color.The machine will Sort and place the object in respective compartment based on shape and color. The machine will keep a count of no. of objects sorted and thus indicate. The machine will return to its initial position after the process of sorting  ".**
