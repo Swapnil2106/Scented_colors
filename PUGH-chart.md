@@ -87,3 +87,58 @@
 ||Speed|5|
 ||Portable|0|
 ||Rugged|-2|
+
+## Glass box
+
+![glass box 2](https://user-images.githubusercontent.com/47111026/52916170-33971000-3302-11e9-8bf5-5b34c6d87a93.png)
+
+## Identified subsystem
+
+|Sl.No|Sub system|
+|-|-|
+|1|Input and storage|
+|2|Sensing|
+|3|Sorting|
+|4|Count and notify|
+
+## Interaction Chart
+
+### Sub System 1 
+||Sub system 2|Sub system 3|Sub system 4|
+|-|-|-|-|
+|Energy interaction|
+|Data interaction|
+|Material Interaction|
+|Spatial interaction|
+
+Explanation:
+
+### Sub system 2
+||Sub system 3|Sub system 4|Sub system 1|
+|-|-|-|-|
+|Energy interaction|
+|Data interaction|
+|Material Interaction|
+|Spatial interaction|
+
+Explanation:
+
+### Sub System 3
+||Sub system 1|Sub system 2|Sub system 4|
+|-|-|-|-|
+|Energy interaction|
+|Data interaction|
+|Material Interaction|
+|Spatial interaction|
+
+Explanation:
+
+### Sub system 4
+||Sub system 2|Sub system 3|Sub system 1|
+|-|-|-|-|
+|Energy interaction|
+|Data interaction|
+|Material Interaction|
+|Spatial interaction|
+
+Explanation:
