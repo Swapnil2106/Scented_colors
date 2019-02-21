@@ -28,7 +28,7 @@
 |Portable|3|
 |Rugged|2|
 
-#PUGH chart
+## PUGH chart
 
 |Objectives|Weightage|Design 1|Design 2|Design 3|Design 4|Design 5|Design 6|
 |-|-|-|-|-|-|-|-|
