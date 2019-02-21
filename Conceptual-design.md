@@ -1,6 +1,6 @@
 ## 2.0: For the chosen need statement, write the problem definition
 
-"Design a small, portable accurate rugged and automatic sorting machine which can sort incense sticks boxes. Which can cost upto Rs 4000,can weigh upto 3 Kgs, with dimensions 1ft X 1ft X 1.5ft
+"Design a small, portable,safe  accurate rugged and automatic sorting machine which can sort incense sticks boxes. Which can cost upto Rs 4000,can weigh upto 3 Kgs, with dimensions 1ft X 1ft X 1.5ft
 The boxes are of two shapes,cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height and 5X1.5X20 in cms weighing 1000 gms. The boxes shall be in red or green color. The machine will sort and place the object in respective compartment based on the shape and color. The machine will keep a count of no. of objects sorted and thus indicate. The machine will return to its initial position after the process of sorting.
 
 ## 2.1: List the inputs,outputs of the system and represent black box model
