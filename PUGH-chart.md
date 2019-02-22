@@ -122,7 +122,7 @@
 |Material Interaction|1|0|0|
 |Spatial interaction|1|0|0|
 
-Explanation:
+Explanation: The purpose of the subsystem 1 is to store the objects which are to be sorted, and pass them to the next subsystem. Thus, there is a material interaction between the two. Subsystem 1 and 2 are spatially connected for an efficient passage of objects. Energy(electric power) interaction is present for the movement of the objects.
 
 ### Sub system 2
 ||Sub system 1|Sub system 3|Sub system 4|
@@ -132,24 +132,26 @@ Explanation:
 |Material Interaction|1|1|0|
 |Spatial interaction|1|1|0|
 
-Explanation:
+Explanation: The purpose of the subsystem 1 is to store the objects which are to be sorted, and pass them to the next subsystem. Thus, there is a material interaction between the two. Subsystem 1 and 2 are spatially connected for an efficient passage of objects. Energy(electric power) interaction is present for the movement of the objects.
+Subsystem 2 is sensing section and Subsystem 3 is sorting section. Therefore objects move from 2 to 3, sensed data(based on the code written):color and shape are transferred from subsystem 2 to 3, so that the motors in systems 3 align themselves appropriately for proper sorting. This implies that 2 and 3 are physically in contact. There is a data transfer from subsystem 2 to 4, which makes the subsystem 4 get the count value from subsystem 2.
 
 ### Sub System 3
 ||Sub system 1|Sub system 2|Sub system 4|
 |-|-|-|-|
 |Energy interaction|0|1|1|
-|Data interaction|0|1|1|
+|Data interaction|0|1|0|
 |Material Interaction|0|1|0|
 |Spatial interaction|0|1|1|
 
-Explanation:
+Explanation: Subsystem 2 is sensing section and Subsystem 3 is sorting section. Therefore objects move from 2 to 3, sensed data(based on the code written):color and shape are transferred from subsystem 2 to 3, so that the motors in systems 3 align themselves appropriately for proper sorting. This implies that 2 and 3 are physically in contact. 
+Subsystem 4 is count and notifying section. Subsystem 3 and 4 are physically in contact. Thus electrical power transfer takes place between the two.
 
 ### Sub system 4
 ||Sub system 1|Sub system 2|Sub system 3|
 |-|-|-|-|
 |Energy interaction|0|0|1|
-|Data interaction|0|1|1|
+|Data interaction|0|1|0|
 |Material Interaction|0|0|0|
 |Spatial interaction|0|0|1|
 
-Explanation:
+Explanation: There is a data transfer from subsystem 2 to 4, which makes the subsystem 4 get the count value from subsystem 2. Subsystem 3 and 4 are physically in contact. Thus electrical power transfer takes place between the two.
