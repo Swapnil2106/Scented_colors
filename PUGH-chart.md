@@ -37,11 +37,11 @@
 |Safety|7|+|+|+|Datum|-|+|
 |Compact|6|+|++|+|Datum|+|0|
 |Speed|5|+|+|++|Datum|+|+|
-|Portable|3|++|+|+|Datum|++|0|
+|Portable|3|+|+|+|Datum|++|0|
 |Rugged|2|+|0|++|Datum|+|-|
-|+ score||34|44|55|-|19|21|
+|+ score||28|44|55|-|19|21|
 |- score||0|0|0|-|7|2|
-|Total||34|44|55|-|12|19|
+|Total||28|44|55|-|12|19|
 
 |Design Table|Objective|Score given|Justification|
 |-|-|-|-|
