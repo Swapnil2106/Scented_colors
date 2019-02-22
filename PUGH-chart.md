@@ -54,14 +54,14 @@
 ||Speed|5|Vacuum suction is a slower process, than the grounded movement of the objects on conveyor and arm|
 ||Portable|6|Since design 1 is more compact, its portability is higher than that of design 4|
 ||Rugged|2|Vacuum mechanisms involved devices must be handled with higher care. with this, design 1 is more rugged|
-|2|Automatic|9|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
+|2|Automatic|0|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
 ||Accurate|8|There are chances for proper sensing , yet faulty sorting in design 4, compared to design 2|
 ||Safety|7|A throw action is observed in design 4, which is a black spot with safety aspect. Design 2 is safer|
 ||Compact|12|Device in Design 2 is very small compared to that in design 4|
 ||Speed|5|Vacuum suction is a slower process, than the movement of the objects on a slider|
 ||Portable|3|Since design 2 is more compact, its portability is higher than that of design 4|
 ||Rugged|0|The risk factor of both the machines are considered to be the same|
-|3|Automatic|9|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
+|3|Automatic|0|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
 ||Accurate|16|There are chances for proper sensing , yet faulty sorting in design 4, compared to design 3. The sorting mechanism is more efficient in terms of movement in design 3|
 ||Safety|7|A throw action is observed in design 4, which is a black spot with safety aspect. Design 3 is safer|
 ||Compact|6|Device in Design 3 is very small compared to that in design 4|
