@@ -43,6 +43,8 @@
 |- score||0|0|0|-|7|2|
 |Total||28|44|55|-|12|19|
 
+**The best concept selected is Design 3**
+
 |Design Table|Objective|Score given|Justification|
 |-|-|-|-|
 |1|Automatic|0|
