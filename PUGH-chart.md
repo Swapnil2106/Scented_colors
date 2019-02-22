@@ -82,7 +82,7 @@
 ||Speed|5|
 ||Portable|6|
 ||Rugged|2|
-|6|Automatic|9|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
+|6|Automatic|0|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
 ||Accurate|0|
 ||Safety|7|
 ||Compact|0|
