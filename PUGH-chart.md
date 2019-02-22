@@ -47,21 +47,21 @@
 
 |Design Table|Objective|Score given|Justification|
 |-|-|-|-|
-|1|Automatic|0|
+|1|Automatic|0|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
 ||Accurate|8|
 ||Safety|7|
 ||Compact|6|
 ||Speed|5|
 ||Portable|6|
 ||Rugged|2|
-|2|Automatic|9|
+|2|Automatic|9|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
 ||Accurate|8|
 ||Safety|7|
 ||Compact|12|
 ||Speed|5|
 ||Portable|3|
 ||Rugged|0|
-|3|Automatic|9|
+|3|Automatic|9|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
 ||Accurate|16|
 ||Safety|7|
 ||Compact|6|
@@ -75,14 +75,14 @@
 ||Speed|0|Datum|
 ||Portable|0|Datum|
 ||Rugged|0|Datum|
-|5|Automatic|0|
+|5|Automatic|0|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
 ||Accurate|0|
 ||Safety|-7|
 ||Compact|6|
 ||Speed|5|
 ||Portable|6|
 ||Rugged|2|
-|6|Automatic|9|
+|6|Automatic|9|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
 ||Accurate|0|
 ||Safety|7|
 ||Compact|0|
