@@ -48,26 +48,26 @@
 |Design Table|Objective|Score given|Justification|
 |-|-|-|-|
 |1|Automatic|0|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
-||Accurate|8|
-||Safety|7|
-||Compact|6|
-||Speed|5|
-||Portable|6|
-||Rugged|2|
+||Accurate|8|There are chances for proper sensing , yet faulty sorting in design 4, compared to design 1|
+||Safety|7|A throw action is observed in design 4, which is a black spot with safety aspect. Design 1 is safer|
+||Compact|6|Installing vacuum mechanism consumes more space, than the conveyor mechanism. Thus design 1 is more compact|
+||Speed|5|Vacuum suction is a slower process, than the grounded movement of the objects on conveyor and arm|
+||Portable|6|Since design 1 is more compact, its portability is higher than that of design 4|
+||Rugged|2|Vacuum mechanisms involved devices must be handled with higher care. with this, design 1 is more rugged|
 |2|Automatic|9|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
-||Accurate|8|
-||Safety|7|
-||Compact|12|
-||Speed|5|
-||Portable|3|
-||Rugged|0|
+||Accurate|8|There are chances for proper sensing , yet faulty sorting in design 4, compared to design 2|
+||Safety|7|A throw action is observed in design 4, which is a black spot with safety aspect. Design 2 is safer|
+||Compact|12|Device in Design 2 is very small compared to that in design 4|
+||Speed|5|Vacuum suction is a slower process, than the movement of the objects on a slider|
+||Portable|3|Since design 2 is more compact, its portability is higher than that of design 4|
+||Rugged|0|The risk factor of both the machines are considered to be the same|
 |3|Automatic|9|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
-||Accurate|16|
-||Safety|7|
-||Compact|6|
-||Speed|10|
-||Portable|3|
-||Rugged|4|
+||Accurate|16|There are chances for proper sensing , yet faulty sorting in design 4, compared to design 3. The sorting mechanism is more efficient in terms of movement in design 3|
+||Safety|7|A throw action is observed in design 4, which is a black spot with safety aspect. Design 3 is safer|
+||Compact|6|Device in Design 3 is very small compared to that in design 4|
+||Speed|10|Vacuum suction is a slower process, where as, there is a quick movement of motors in multi directional conveyor|
+||Portable|3|Since design 3 is more compact, its portability is higher than that of design 4|
+||Rugged|4|Vacuum mechanisms involved devices must be handled with higher care. with this, design 3 is more rugged|
 |4|Automatic|0|Datum|
 ||Accurate|0|Datum|
 ||Safety|0|Datum|
