@@ -1,4 +1,4 @@
-# Concept selection and product architecture
+
 
 ## Prioritized and Identified objectives
 
@@ -76,19 +76,19 @@
 ||Portable|0|Datum|
 ||Rugged|0|Datum|
 |5|Automatic|0|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
-||Accurate|0|
-||Safety|-7|
-||Compact|6|
-||Speed|5|
-||Portable|6|
-||Rugged|2|
+||Accurate|0|Both design 4 and 5 have the same mechanism pick and place, only change is the grip it has on the object which doesn't bother the accuracy|
+||Safety|-7|In Design 5, the arms drop the objects from a greater height, so, less safer than design 4|
+||Compact|6|Design 5 occupies a smaller space for its functioning, than design 4|
+||Speed|5|The time for vacuum suction is absent in design 5|
+||Portable|6|Since design 5 is more compact,its portability is higher|
+||Rugged|2|Design 4 is not adaptable everywhere, so its ruggedness is lesser than design 5|
 |6|Automatic|0|On proper working of both the designs(w.r.t Datum), it can be noted that automaticity are of equal magnitudes, things to be done by the user are turning the device on/off, and place the object|
-||Accurate|0|
-||Safety|7|
-||Compact|0|
-||Speed|5|
-||Portable|0|
-||Rugged|-2|
+||Accurate|0|Vacuum suction and placing, and , hydraulic arms for pushing, have a similar accuracy|
+||Safety|7|Since its a grounded movement of objects in design 6, the objects will be safer|
+||Compact|0|Both designs are equally bulky|
+||Speed|5|Pushing requires lesser time than picking and placing|
+||Portable|0|Equally bulky designs have similar portability|
+||Rugged|-2|Hydraulic arm mechanism is less prone to rough handling|
 
 ## Glass box
 
