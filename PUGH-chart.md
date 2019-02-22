@@ -32,7 +32,7 @@
 
 |Objectives|Weightage|Design 1|Design 2|Design 3|Design 4|Design 5|Design 6|
 |-|-|-|-|-|-|-|-|
-|Automatic|9|0|+|+|Datum|0|+|
+|Automatic|9|0|0|0|Datum|0|0|
 |Accurate|8|+|+|++|Datum|0|0|
 |Safety|7|+|+|+|Datum|-|+|
 |Compact|6|+|++|+|Datum|+|0|
@@ -41,7 +41,7 @@
 |Rugged|2|+|0|++|Datum|+|-|
 |+ score||28|44|55|-|19|21|
 |- score||0|0|0|-|7|2|
-|Total||28|44|55|-|12|19|
+|Total||28|35|46|-|12|10|
 
 **The best concept selected is Design 3**
 
