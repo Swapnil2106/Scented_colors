@@ -94,7 +94,7 @@
 
 ![glass box 2](https://user-images.githubusercontent.com/47111026/52916170-33971000-3302-11e9-8bf5-5b34c6d87a93.png)
 
-## Identified subsystem
+## Identified subsystems list
 
 |Sl.No|Sub system|
 |-|-|
@@ -102,6 +102,12 @@
 |2|Sensing|
 |3|Sorting|
 |4|Count and notify|
+
+## Interaction details:
+**Material interaction:**Solids,liquids, and gases that flow from one subsystem to the next.
+**Energy interaction:**Energies that must be transmitted or shielded between sub systems.
+**Data interaction:**Signals(tactile, acoustic, electrical, visual, etc.) that must be processed from one subsystem to the next.
+**Spatial interaction:**Geometrical dimensions, degrees of freedom, tolerances and constraints that must be maintained between the subsystems.
 
 ## Interaction Chart
 
