@@ -105,8 +105,11 @@
 
 ## Interaction details:
 **Material interaction:** Solids,liquids, and gases that flow from one subsystem to the next.
+
 **Energy interaction:** Energies that must be transmitted or shielded between sub systems.
+
 **Data interaction:** Signals(tactile, acoustic, electrical, visual, etc.) that must be processed from one subsystem to the next.
+
 **Spatial interaction:** Geometrical dimensions, degrees of freedom, tolerances and constraints that must be maintained between the subsystems.
 
 ## Interaction Chart
