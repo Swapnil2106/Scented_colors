@@ -117,39 +117,39 @@
 ### Sub System 1 
 ||Sub system 2|Sub system 3|Sub system 4|
 |-|-|-|-|
-|Energy interaction|
-|Data interaction|
-|Material Interaction|
-|Spatial interaction|
+|Energy interaction|1|0|0|
+|Data interaction|0|0|0|
+|Material Interaction|1|0|0|
+|Spatial interaction|1|0|0|
 
 Explanation:
 
 ### Sub system 2
-||Sub system 3|Sub system 4|Sub system 1|
+||Sub system 1|Sub system 3|Sub system 4|
 |-|-|-|-|
-|Energy interaction|
-|Data interaction|
-|Material Interaction|
-|Spatial interaction|
+|Energy interaction|1|1|0|
+|Data interaction|0|1|1|
+|Material Interaction|1|1|0|
+|Spatial interaction|1|1|0|
 
 Explanation:
 
 ### Sub System 3
 ||Sub system 1|Sub system 2|Sub system 4|
 |-|-|-|-|
-|Energy interaction|
-|Data interaction|
-|Material Interaction|
-|Spatial interaction|
+|Energy interaction|0|1|1|
+|Data interaction|0|1|1|
+|Material Interaction|0|1|0|
+|Spatial interaction|0|1|1|
 
 Explanation:
 
 ### Sub system 4
-||Sub system 2|Sub system 3|Sub system 1|
+||Sub system 1|Sub system 2|Sub system 3|
 |-|-|-|-|
-|Energy interaction|
-|Data interaction|
-|Material Interaction|
-|Spatial interaction|
+|Energy interaction|0|0|1|
+|Data interaction|0|1|1|
+|Material Interaction|0|0|0|
+|Spatial interaction|0|0|1|
 
 Explanation:
