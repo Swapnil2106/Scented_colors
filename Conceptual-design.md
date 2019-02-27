@@ -88,23 +88,31 @@ The boxes are of two shapes,cylindrical and cuboidal respectively with dimension
 
 ![2](https://user-images.githubusercontent.com/47111026/52983984-78f73280-3413-11e9-9617-14f06ef7d69f.PNG)
 
+Sensor:Camera sensor
+
 
 2.![whatsapp image 2019-02-17 at 8 51 50 pm](https://user-images.githubusercontent.com/47111026/52916245-f2533000-3302-11e9-9c5f-88ead0457d8a.jpeg)
 
+Sensor:Camera sensor
 
 3. 
 
 ![capture](https://user-images.githubusercontent.com/47111026/52971073-16367480-33dc-11e9-800f-2a588e86959f.PNG)
 
+Sensor:Camera sensor
+
 4.
 
 ![1](https://user-images.githubusercontent.com/47111026/52983916-359cc400-3413-11e9-882d-cdd88c561edb.PNG)
 
+Sensor:Camera sensor
 
 5.
 ![whatsapp image 2019-02-19 at 12 04 56 am 1](https://user-images.githubusercontent.com/47111026/52971174-834a0a00-33dc-11e9-9769-67c9433f7238.jpg)
 
+Sensor:Camera sensor
+
 6.
 ![whatsapp image 2019-02-19 at 12 04 56 am](https://user-images.githubusercontent.com/47111026/52971231-b096b800-33dc-11e9-93a1-e6b33c6665be.jpeg)
 
-
+Sensor:Camera sensor
