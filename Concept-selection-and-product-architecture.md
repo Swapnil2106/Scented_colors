@@ -117,28 +117,28 @@
 ### Sub System 1 
 ||Sub system 2|Sub system 3|
 |-|-|-|
-|Energy interaction|||
-|Data interaction|||
-|Material Interaction|||
-|Spatial interaction|||
+|Energy interaction|1|0|
+|Data interaction|1|0|
+|Material Interaction|1|0|
+|Spatial interaction|1|0|
 
-Explanation:
+Explanation: Flow of electric current from the feeding section to sorting section implies energy interaction. Data like color and shape of the object and the code to detect will be transferred between the section. Objects will move from section 1 to 2 which are spatially connected.
 
 ### Sub system 2
 ||Sub system 1|Sub system 3|
 |-|-|-|
-|Energy interaction|||
-|Data interaction|||
-|Material Interaction|||
-|Spatial interaction|||
+|Energy interaction|1|0|
+|Data interaction|1|0|
+|Material Interaction|1|1|
+|Spatial interaction|1|1|
 
-Explanation: 
+Explanation: Flow of electric current from the feeding section to sorting section implies energy interaction. Data like color and shape of the object and the code to detect will be transferred between the section. Objects will move from section 1 to 2 which are spatially connected. Multi directional conveyor which is physically connected to the compartments will transfer the objects from section 2 to 3.
 ### Sub System 3
 ||Sub system 1|Sub system 2|
 |-|-|-|
-|Energy interaction|||
-|Data interaction|||
-|Material Interaction|||
-|Spatial interaction|||
+|Energy interaction|0|0|
+|Data interaction|0|0|
+|Material Interaction|0|1|
+|Spatial interaction|0|1|
 
-Explanation: 
+Explanation: Multi directional conveyor which is physically connected to the compartments will transfer the objects from section 2 to 3.
