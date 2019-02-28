@@ -69,7 +69,6 @@ The boxes are of two shapes,cylindrical and cuboidal respectively with dimension
 ## 2.5: Write the glass box representation of the above system 
 
 
-![glass box review 3](https://user-images.githubusercontent.com/47111026/53543984-849cd480-3b4a-11e9-938b-222eb45b23b9.png)
 
 
 
