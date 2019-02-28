@@ -68,9 +68,7 @@ The boxes are of two shapes,cylindrical and cuboidal respectively with dimension
 
 ## 2.5: Write the glass box representation of the above system 
 
-
-
-
+![glass box 2](https://user-images.githubusercontent.com/47111026/52916170-33971000-3302-11e9-8bf5-5b34c6d87a93.png)
 
 ## 2.6: Complete the morphological chart by exploring the other alternative means of achieving the sub functions.
 
