@@ -92,7 +92,8 @@
 
 ## Glass box
 
-![glass box 2](https://user-images.githubusercontent.com/47111026/52916170-33971000-3302-11e9-8bf5-5b34c6d87a93.png)
+![glass box review 3](https://user-images.githubusercontent.com/47111026/53543984-849cd480-3b4a-11e9-938b-222eb45b23b9.png)
+
 
 ## Identified subsystems list
 
