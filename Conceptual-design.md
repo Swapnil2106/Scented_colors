@@ -95,7 +95,7 @@ Sensor:Camera sensor
 Sensor:Camera sensor
 
 3. 
-![whatsapp image 2019-02-28 at 12 10 47 am](https://user-images.githubusercontent.com/47111026/53543218-f32c6300-3b47-11e9-9ff9-f03ee5cc3457.jpeg)
+![design 3](https://user-images.githubusercontent.com/47111026/53631212-0a4a7e00-3c38-11e9-8814-40b4399782ad.PNG)
 
 
 Sensor:Camera sensor
