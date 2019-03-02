@@ -99,9 +99,9 @@
 
 |Sl.No|Sub system|
 |-|-|
-|1|Feeding|
-|2|Sorting|
-|3|Storing|
+|1|Feeding- Kiran|
+|2|Sorting- Sairachan, Jagadish|
+|3|Storing- Swapnil|
 
 ## Interaction details:
 **Material interaction:** Solids,liquids, and gases that flow from one subsystem to the next.
