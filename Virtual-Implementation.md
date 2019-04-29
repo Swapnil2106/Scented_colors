@@ -2,6 +2,9 @@
 
 ## 3D Model
 
+![mdc](https://user-images.githubusercontent.com/47111026/56919142-797c0b80-6add-11e9-8ce5-662a18f461fe.PNG)
+
+![mdc1](https://user-images.githubusercontent.com/47111026/56919143-7a14a200-6add-11e9-9547-119c33493d0a.PNG)
 
 ## Flow chart
 
