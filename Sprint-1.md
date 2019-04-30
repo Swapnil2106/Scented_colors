@@ -1,7 +1,7 @@
 # Multi Directional Conveyor
 
 ## Fabrication Plan
-
+We use aluminium c channel for the frame. Ball bearings are fitted into the ball bearings placed in the foam sheet. Parallel shafts are interconnected with flat belts. Acrylic sheet wheels are inserted into the shafts. And both the center shafts are connected to motor.
 
 ## Interaction Aspect
 
