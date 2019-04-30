@@ -6,6 +6,10 @@
 
 ![WhatsApp Image 2019-03-04 at 3 33 15 PM](https://user-images.githubusercontent.com/47111026/56937425-2d9b8780-6b1a-11e9-88cf-d9444ca9a668.jpeg)
 
+# Whole System Circuit
+
+![full system circuit](https://user-images.githubusercontent.com/47111026/56937644-7a339280-6b1b-11e9-9d9c-47bd8da5712e.PNG)
+
 #Bill of Materials
 
 ![bom](https://user-images.githubusercontent.com/47111026/56916093-bcd27c00-6ad5-11e9-9470-0eb1e7a9235d.jpeg)
