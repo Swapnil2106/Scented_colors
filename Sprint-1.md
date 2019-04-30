@@ -3,7 +3,7 @@
 ## Fabrication Plan
 
 
-## Integration Aspect
+## Interaction Aspect
 
 With Subsystem 1: Objects are placed on Multi Directional Conveyor using Subsystem objects are after sorting are placed in subsystem 3
 
