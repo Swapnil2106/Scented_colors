@@ -1,7 +1,7 @@
-# Multi Directional Conveyor
+# Conveyor belt
 
 ## Fabrication Plan
-
+We use acrylic sheets for the systems body. A black elastic as our belt. Motor is mounted on another acrylic piece of sheet.
 
 ## Interaction Aspect
 
