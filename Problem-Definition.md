@@ -83,7 +83,7 @@ Ranking
 ## >1.2 Identify constraints
 |Criteria|Value|
 |--|--|
-|1.Size of the machine.|1ft*3ft*1.5|
+|1.Size of the machine.|1.9ft*0.78ft*0.82|
 |2.Weight of the machine.|Upto 3 kgs|
 |3.Shapes and colors of the stick boxes.|cuboidial  and Cylindrical, Color-green and blue|
 |4. cost of the machine.|upto Rs 4000|
