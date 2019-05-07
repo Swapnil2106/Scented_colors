@@ -1,7 +1,7 @@
 ## 2.0: For the chosen need statement, write the problem definition
 
-"Design a small, portable,safe  accurate rugged and automatic sorting machine which can sort incense sticks boxes. Which can cost upto Rs 4000,can weigh upto 3 Kgs, with dimensions 1ft X 1ft X 1.5ft
-The boxes are of two shapes,cylindrical and cuboidal respectively with dimensions 5cm dia and 20cm height and 5X1.5X20 in cms weighing 1000 gms. The boxes shall be in red or green color. The machine will sort and place the object in respective compartment based on the shape and color. The machine will keep a count of no. of objects sorted and thus indicate. The machine will return to its initial position after the process of sorting.
+"Design a small, portable,safe  accurate rugged and automatic sorting machine which can sort match stick boxes. Which can cost upto Rs 4000,can weigh upto 3 Kgs, with dimensions 1ft X 1ft X 1.5ft
+The boxes are of two shapes,cylindrical and cuboidal respectively with dimensions 7cm dia and 3cm height and 7X1.5X7 in cms weighing minimum 100 gms. The boxes shall be in blue or green color. The machine will sort and place the object in respective compartment based on the shape and color.The machine will return to its initial position after the process of sorting.
 
 ## 2.1: List the inputs,outputs of the system and represent black box model
 
@@ -20,8 +20,6 @@ The boxes are of two shapes,cylindrical and cuboidal respectively with dimension
 2.Sensing.
 
 3.Sorting.
-
-4.Count and notifying.
 
 ## 2.3 user interaction-system behavior table
 
@@ -51,15 +49,6 @@ The boxes are of two shapes,cylindrical and cuboidal respectively with dimension
 |Enter the code for sorting process|Extracts the code|
 ||Controls the movement of objects|
 ||Sorts and places the objects in compartments based on its shape and color|
-
-### 4. Counting and notifying 
-
-|User interference |System behavior|
-|-|-|
-||keep a count of the objects|
-||Display the count|
-|Read the count||
-|Fetch the count||
 
 ## 2.4: Functional tree
 
