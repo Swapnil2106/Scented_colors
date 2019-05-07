@@ -13,9 +13,9 @@
 |5. Are there any dimensional constraints as such?|The machine should be small and compact|Establish client's objective|
 |6. Based on which parameters are the objects sorted?|Color and shape|Identify constraints|
 |7.What are the possible shapes of the object?|Cylindrical and cuboidal|Identify constraints|
-|8.What are the dimensions of the object?|Cylindrical-7cm dia 3cm-height, Cuboidal- 7cmX7cmx1.5cm|Identify constraints|
+|8.What are the dimensions of the object?|Cylindrical-7.5 cm dia and 3.5 cm-height, Cuboidal- 7 X 7 X 1.8 in cms |Identify constraints|
 |9.How much does the object weigh?|Max 100gms|Identify constraints|
-|10.What are the dimension of the machine?|3ftX1.5ftX1ft|Identify constraints|
+|10.What are the dimension of the machine?|1.9ft X 0.78ft X 0.82ft |Identify constraints|
 |11.What can be the cost of making the machine?|Max RS 4000|Identify constraints|
 |12.Is there any time constraints?| The machines should be made in 2 to 3 months|Identify constraints|
 |13.Should the object be only detected?|Object should be placed in the compartment|Establish functions|
@@ -92,7 +92,7 @@ Ranking
 
 
 ## >Problem definition version(1.2)</sub>
-**"Design a small,portable,safe  accurate rugged and automatic sorting machine which can sort sticks boxes. The machines which can cost upto Rs 4000, can weigh upto 3 kgs, with dimensions 3ft x 1ft x 1.5 ft. The boxes weighing upto 100gms are of two shapes, cylindrical and cuboidal respectively with dimensions 7cm dia and 3cm height, and 7x7x1.5 in cms weighing 100gms. The boxes shall be in green or blue colour". The machine shall be made within 3 months."**
+**"Design a small,portable,safe  accurate rugged and automatic sorting machine which can sort sticks boxes. The machines which can cost upto Rs 4000, can weigh upto 3 kgs, with dimensions 1.9ft X 0.78ft X 0.82ft . The boxes weighing upto 100gms are of two shapes, cylindrical and cuboidal respectively with dimensions 7.5cm dia and 3.5cm height, and 7x7x1.8 in cms weighing 100gms. The boxes shall be in green or blue colour". The machine shall be made within 3 months."**
 
 ## >1.3 Identify functions
 
@@ -103,4 +103,4 @@ Ranking
 3. The process shall be considered terminated when the placer returns to its initial position.
 
 ## >Problem definition version(1.3)</sub>
-**"Design a small,portable, safe, accurate rugged and automatic sorting machine which can sort sticks boxes. The machines which can cost upto Rs 4000,can weigh upto 3 kgs, with dimensions 3ft x 1ft x 1.5 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 7cm dia and 3cm height, and 7x7x1.5 in cms weighing 100gms. The boxes shall be in green or blue color.The machine will Sort and place the object in respective compartment based on shape and color. The machine will return to its initial position after the process of sorting  ".**
+**"Design a small,portable, safe, accurate rugged and automatic sorting machine which can sort sticks boxes. The machines which can cost upto Rs 4000,can weigh upto 3 kgs, with dimensions 1.9 ft x 0.78 x 0.82 ft. The boxes are of two shapes, cylindrical and cuboidal respectively with dimensions 7.5cm dia and 3.5cm height, and 7x7x1.8 in cms weighing 100gms. The boxes shall be in green or blue color.The machine will Sort and place the object in respective compartment based on shape and color. The machine will return to its initial position after the process of sorting  ".**
