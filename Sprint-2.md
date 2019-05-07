@@ -13,11 +13,9 @@ The object is placed manually on the conveyor and the color of the object is sto
 
 ## Program
 
-![p1](https://user-images.githubusercontent.com/47111026/56938235-60e01580-6b1e-11e9-8475-3d512afd9b5e.PNG)
-
-![p2](https://user-images.githubusercontent.com/47111026/56938234-60477f00-6b1e-11e9-801d-80e12d9b1d16.PNG)
-
-![p3](https://user-images.githubusercontent.com/47111026/56938230-5faee880-6b1e-11e9-8e74-1cf7ec956fb6.PNG)
+![p1](https://user-images.githubusercontent.com/47111026/57324133-e4a09000-7124-11e9-808a-6bcdb9fcca8a.PNG)
+![p2](https://user-images.githubusercontent.com/47111026/57324134-e5392680-7124-11e9-8999-5bfd840c0932.PNG)
+![p3](https://user-images.githubusercontent.com/47111026/57324135-e5392680-7124-11e9-93b1-bb17724be422.PNG)
 
 ## Testing Phase 
 
