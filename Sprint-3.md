@@ -10,4 +10,4 @@ The objects after sorting are passed to the subsystem 3 and are stored in the bo
 
 ## Built Sub System Image
 
-![box1](https://user-images.githubusercontent.com/47111026/56957461-cd7e0300-6b64-11e9-9555-c95496536963.PNG)
+![box2](https://user-images.githubusercontent.com/47111026/57323147-d94c6500-7122-11e9-8ac9-46a8a6da4c7f.PNG)
