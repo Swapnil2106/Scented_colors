@@ -1,7 +1,7 @@
 ## 2.0: For the chosen need statement, write the problem definition
 
-"Design a small, portable,safe  accurate rugged and automatic sorting machine which can sort match stick boxes. Which can cost upto Rs 4000,can weigh upto 3 Kgs, with dimensions 1ft X 1ft X 1.5ft
-The boxes are of two shapes,cylindrical and cuboidal respectively with dimensions 7cm dia and 3cm height and 7X1.5X7 in cms weighing minimum 100 gms. The boxes shall be in blue or green color. The machine will sort and place the object in respective compartment based on the shape and color.The machine will return to its initial position after the process of sorting.
+"Design a small, portable,safe  accurate rugged and automatic sorting machine which can sort match stick boxes. Which can cost upto Rs 4000,can weigh upto 3 Kgs, with dimensions 1.9ft X 0.78ft X 0.82ft
+The boxes are of two shapes,cylindrical and cuboidal respectively with dimensions 7.5cm dia and 3.5cm height and 7X7X1.8 in cms weighing minimum 100 gms. The boxes shall be in blue or green color. The machine will sort and place the object in respective compartment based on the shape and color.The machine will return to its initial position after the process of sorting.
 
 ## 2.1: List the inputs,outputs of the system and represent black box model
 
