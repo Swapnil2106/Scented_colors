@@ -8,7 +8,8 @@
 
 ## Flow chart
 
-![WhatsApp Image 2019-03-04 at 3 33 15 PM](https://user-images.githubusercontent.com/47111026/56915507-50a34880-6ad4-11e9-82d9-d83c64801881.jpeg)
+![1](https://user-images.githubusercontent.com/47111026/57322646-a2c21a80-7121-11e9-8a73-47ce702004c7.png)
+
 
 ## Bill of Materials
 
