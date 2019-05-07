@@ -4,7 +4,8 @@
 
 # Flow Chart 
 
-![WhatsApp Image 2019-03-04 at 3 33 15 PM](https://user-images.githubusercontent.com/47111026/56937425-2d9b8780-6b1a-11e9-88cf-d9444ca9a668.jpeg)
+![1](https://user-images.githubusercontent.com/47111026/57322646-a2c21a80-7121-11e9-8a73-47ce702004c7.png)
+
 
 # Whole System Circuit
 
