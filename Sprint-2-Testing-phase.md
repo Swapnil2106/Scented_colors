@@ -1,0 +1,1 @@
+Motor used is of 60 Rpm and is working fine, the elastic belt used is able to move the object properly 
