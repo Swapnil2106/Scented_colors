@@ -4,7 +4,7 @@
 
 # Flow Chart 
 
-![1](https://user-images.githubusercontent.com/47111026/57322646-a2c21a80-7121-11e9-8a73-47ce702004c7.png)
+![1 (1)](https://user-images.githubusercontent.com/47111026/57348662-93b88800-7174-11e9-8e2e-f0fc32029463.png)
 
 
 # Whole System Circuit
