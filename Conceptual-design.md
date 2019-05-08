@@ -1,6 +1,6 @@
 ## 2.0: For the chosen need statement, write the problem definition
 
-"Design a small, portable,safe  accurate rugged and automatic sorting machine which can sort match stick boxes. Which can cost upto Rs 4000,can weigh upto 3 Kgs, with dimensions 1.9ft X 0.78ft X 0.82ft
+"Design a small, portable,safe  accurate rugged and automatic sorting machine which can sort match stick boxes. Which can cost upto Rs 4000,can weigh upto 3 Kgs, with dimensions 2ft X 1ft X 1ft
 The boxes are of two shapes,cylindrical and cuboidal respectively with dimensions 7.5cm dia and 3.5cm height and 7X7X1.8 in cms weighing minimum 100 gms. The boxes shall be in blue or green color. The machine will sort and place the object in respective compartment based on the shape and color.The machine will return to its initial position after the process of sorting.
 
 ## 2.1: List the inputs,outputs of the system and represent black box model
@@ -58,7 +58,8 @@ The boxes are of two shapes,cylindrical and cuboidal respectively with dimension
 
 ## 2.5: Write the glass box representation of the above system 
 
-![glass box 2](https://user-images.githubusercontent.com/47111026/52916170-33971000-3302-11e9-8bf5-5b34c6d87a93.png)
+![glass](https://user-images.githubusercontent.com/47111026/57347986-070cca80-7172-11e9-9dfd-59bb563166cc.png)
+
 
 ## 2.6: Complete the morphological chart by exploring the other alternative means of achieving the sub functions.
 
