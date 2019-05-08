@@ -1,0 +1,1 @@
+The boxes are of a firm shape and are not getting out of shape any time
