@@ -1,0 +1,1 @@
+Motors used are of 100 Rpm and are working properly, the flat belts are persuading all the shafts in the required manner. The wheels are conveying the objects in all required fashion
